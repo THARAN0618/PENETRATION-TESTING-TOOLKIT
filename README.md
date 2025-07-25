@@ -9,3 +9,4 @@ This project consists of two Python-based cybersecurity modules: a **Brute-Force
 
 #Output
 ![Image](https://github.com/user-attachments/assets/eb72ba8b-4f8e-4f0b-946e-efa695704a0d)
+
